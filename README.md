@@ -1,4 +1,4 @@
-# ML Algorithms Lab 🤖
+# ML Algorithms Lab 
 
 A collection of Machine Learning algorithm implementations and experiments using Python and Google Colab.
 
@@ -7,7 +7,12 @@ A collection of Machine Learning algorithm implementations and experiments using
 - Datasets used for experimentation
 - Model training and evaluation scripts
 
-
+## 🛠️ Tech Stack
+- Python
+- Scikit-learn
+- Pandas, NumPy
+- Matplotlib, Seaborn
+- Google Colab
 
 ## 🚀 How to Run
 1. Clone the repo
